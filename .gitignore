@@ -1,0 +1,9 @@
+# Ignore Simulation Artifacts
+sim_build/
+__pycache__/
+*.vcd
+*.xml
+results.xml
+
+# Ignore Mac System Files
+.DS_Store
